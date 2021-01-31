@@ -1,10 +1,12 @@
 import './App.css';
+import HomePage from "./components/homepage";
+
 
 function App() {
     return (
         <div>
-            <h1>Hello Azeem nd World!</h1>
-        </div>
+            <HomePage />
+            </div>
     );
 }
 
