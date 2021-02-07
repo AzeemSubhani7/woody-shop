@@ -2,7 +2,6 @@ import React from 'react';
 import { Link } from "react-router-dom";
 import { ReactComponent as ReactLogo } from '../assets/crown.svg';
 //import { default as logo } from '../assets/crown.svg';
-
 import './css/header.scss';
 
 // <link to='/' className='logo-container'>
